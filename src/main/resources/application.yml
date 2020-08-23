@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: jdbc:mysql://local.dev.com:3306
